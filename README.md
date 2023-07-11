@@ -1,6 +1,6 @@
-# Hi, I'm Anthony.
+## React | Redux | JavaScript | Ruby | Rails | HTML | CSS | SQL
 
-### I'm a software engineer passionate about problem-solving and frontend development. Let's connect and explore opportunities in the dynamic world of software development. My passions include: software development 💻, automotive 🚘, real estate 🏠, stocks 📈, and fitness 💪🏼. 
+### Hi, I'm Anthony. I'm a software engineer passionate about problem-solving and frontend development. Let's connect and explore opportunities in the dynamic world of software development. My passions include: software development 💻, automotive 🚘, real estate 🏠, stocks 📈, and fitness 💪🏼. 
 
 ### Here are some of the cool projects that I've worked on: 
 + [Zillion](https://zillion-merq.onrender.com/) 🏡 
