@@ -7,5 +7,5 @@
 + [a/A auto Analyzer](https://a-wong-8.github.io/Javascript-project/) 🚘 
 + [don'trip](https://dontrip-cf0b244dc888.herokuapp.com/) ✈️
 
-### Check out my portfolio [site](https://a-wong-8.github.io/)!
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/anthony-wong-26723813b/)! 
+### Check out my [portfolio site](https://a-wong-8.github.io/)!
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/anthony-wong-26723813b/)!  
