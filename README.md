@@ -1,4 +1,4 @@
-## React | Tailwind | TypeScript | JavaScript | Ruby | HTML | CSS | SQL
+## React | Tailwind | TypeScript | JavaScript | Ruby | HTML | CSS | SQL | PHP
 
 ### Hi, I'm Anthony. I'm a software engineer passionate about problem-solving and frontend development. Let's connect and explore opportunities in the dynamic world of software development. My interests include: software development 💻, automotive 🚘, real estate 🏠, stocks 📈, and fitness 💪🏼. 
 
