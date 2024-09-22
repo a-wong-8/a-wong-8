@@ -4,7 +4,7 @@
 
 ### Here are some of the ill projects that I've worked on: 
 + [Virufy](https://gevuong.github.io/minimal-i18n-with-app-router/en) Virufy 6.0, will replace outdated current site, Virufy.org.
-+ [Multi-Point Inspection Sheet](https://inspection-sheet.com) a vehicle inspection sheet for automotive repair shops. 
++ [Inspection Sheet](https://inspection-sheet.com) a multilingual vehicle inspection sheet for automotive repair shops. 
 + [Zillion](https://zillion-merq.onrender.com/) 🏡 a clone of Zillow, a real estate marketplace.
 + [a/A auto Analyzer](https://a-wong-8.github.io/Javascript-project/) 🚘 an automotive data visualizer.
 + [don'trip](https://dontrip-cf0b244dc888.herokuapp.com/) ✈️ application that uses AI to plan your next vacation.
