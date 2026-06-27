@@ -9,5 +9,4 @@
 + [a/A auto Analyzer](https://a-wong-8.github.io/Javascript-project/) 🚘 an automotive data visualizer.
 + [don'trip](https://dontrip-cf0b244dc888.herokuapp.com/) ✈️ application that uses AI to plan your next vacation.
 
-### Check out my [portfolio site](https://a-wong-8.github.io/).
 ### Let's connect on [LinkedIn](https://www.linkedin.com/in/anthony-wong-26723813b/).
