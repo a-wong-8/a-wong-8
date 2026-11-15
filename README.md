@@ -4,7 +4,7 @@
 
 ### Here are some of the ill projects that I've worked on: 
 + [Virufy](https://gevuong.github.io/minimal-i18n-with-app-router/en) Virufy 6.0, will replace outdated current site, Virufy.org.
-+ [Inspection Sheet](https://inspection-sheet.com) a multilingual vehicle inspection sheet for automotive repair shops. 
++ [Inspection Sheet](https://inspection-sheet.com) a multilingual inspection sheet for automotive, forklift, and airplanes. 
 + [a/A auto Analyzer](https://a-wong-8.github.io/Javascript-project/) 🚘 an automotive data visualizer.
 
 ### Let's connect on [LinkedIn](https://www.linkedin.com/in/anthony-wong-26723813b/).
